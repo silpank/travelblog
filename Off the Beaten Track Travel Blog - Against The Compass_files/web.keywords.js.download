@@ -1,0 +1,5 @@
+
+        window.$adManagementConfig = window.$adManagementConfig || {};
+        window.$adManagementConfig.web = window.$adManagementConfig.web || {};
+        window.$adManagementConfig.web.keywords = {"status":"PROCESSED","sales_kw":"beaten track travel blog,compass,against,off,joan torres,different travel blog,track destination","sales_cat":"653","sales_safety":"GGT0","sales_segment":"GumGum Verity Seasonal - Memorial Day,GumGum Verity Seasonal - Thanksgiving/Bl,GumGum Verity Seasonal - Christmas,GumGum Verity Seasonal - 4th of July,GumGum Verity Seasonal - Labor Day"};
+      
